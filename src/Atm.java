@@ -10,11 +10,13 @@ public class Atm {
         //version 2
 
         System.out.println("learn java earn monye");
-        //version3
-        System.out.println("git is easy");
 
-        System.out.println("java zevkli");
-//version 5
+//version3
+
+
+        System.out.println("murat branchi kod yazdı");
+        //version murat 1
+
     }
 
 }
