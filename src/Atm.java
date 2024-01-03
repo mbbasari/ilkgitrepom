@@ -13,7 +13,7 @@ public class Atm {
         //version3
         System.out.println("git is easy");
 
-        System.out.println("java zor mu");
+        System.out.println("java zevkli");
 //version 5
     }
 
