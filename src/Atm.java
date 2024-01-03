@@ -6,6 +6,9 @@ public class Atm {
 
         //version 1
 
+        System.out.println("java is easy");
+        //version 2
+
 
 
     }
