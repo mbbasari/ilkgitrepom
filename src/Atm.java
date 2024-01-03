@@ -10,7 +10,8 @@ public class Atm {
         //version 2
 
         System.out.println("learn java earn monye");
-//version3
+        //version3
+        System.out.println("git is easy");
 
     }
 
