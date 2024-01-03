@@ -17,6 +17,11 @@ public class Atm {
         System.out.println("murat branchi kod yazdı");
         //version murat 1
 
+
+        System.out.println("yeni kod");
+
+        //version murat 2
+
     }
 
 }
