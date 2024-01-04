@@ -5,6 +5,12 @@ public class Account {
         System.out.println("kod yazdım");
 
         //murat version 2
+
+
+
+
+
+        //localde değişiklik yaptım
     }
 
 }
